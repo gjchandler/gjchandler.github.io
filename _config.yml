@@ -84,5 +84,6 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  
 #adds in custom theme
 theme: jekyll-theme-minimal
